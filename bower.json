@@ -1,0 +1,19 @@
+{
+  "name": "evp-nrw",
+  "version": "0.0.1",
+  "authors": [
+    "Remo Blaser <remo.blaser@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "html5shiv": "~3.7.2"
+  }
+}
