@@ -1,6 +1,6 @@
 {
-  "name": "evp-nrw",
-  "version": "0.0.1",
+  "name": "html-boilerplate",
+  "version": "1.0.1",
   "description": "",
   "dependencies": {
     "gulp-autoprefixer": "^2.1.0",
@@ -23,6 +23,6 @@
     "gulp-ruby-sass": "^1.0.1",
     "gulp-uglify": "^1.1.0"
   },
-  "author": "Remo Blaser",
+  "author": "Remo Blaser <remo.blaser@gmail.com>",
   "license": "MIT"
 }
