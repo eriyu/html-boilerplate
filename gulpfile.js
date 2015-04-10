@@ -18,3 +18,5 @@ gulp.task('watch', function() {
 
     gulp.watch('assets/scss/*.scss', ['scss']);
 });
+
+gulp.task('default', ['watch', 'scss']);
