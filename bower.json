@@ -13,7 +13,6 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "~3.3.4",
     "html5shiv": "~3.7.2"
   }
 }
